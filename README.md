@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chazifer
+- 👋 Hi, I’m Chazifer. I'm a undergrad Physics student at USB
 - 👀 I’m interested in Physics and finding the perfect cafe :-)
 - 🌱 I’m currently beginning my coding journey and am looking to practice however I can
 - 😄 Pronouns: He/Him! 🏳️‍⚧️
