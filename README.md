@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Chazifer. I'm a undergrad Physics student at UCB
+- 👋 Hi, I’m Chazifer. I'm a undergrad Applied MathMath student at UCB
 - 👀 I’m interested in Physics and finding the perfect cafe :-)
 - 🌱 I’m currently beginning my coding journey and am looking to practice however I can
-- 😄 Pronouns: He/Him! 🏳️‍⚧️
+- 😄 Pronouns: He/They! 🏳️‍⚧️
 
 
 <!---
